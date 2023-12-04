@@ -1,4 +1,4 @@
-![Alt text](yash.png)
+![yash](Users/softage/desktop/yash.png)
 ### Hi there 👋
 ###YASH SHIVA
 *softage*
