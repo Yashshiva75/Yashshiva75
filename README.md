@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YASH SHIVA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://user-images.githubusercontent.com/74031890/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="200">
 - 🔭 I’m currently working on **SOFTAGE DATA ANNOTATION**
 
 - 🌱 I’m currently learning **DJANGO AND FLASK**
