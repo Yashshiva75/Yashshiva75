@@ -1,5 +1,4 @@
 ### Hi there 👋
-![image](https://github.com/Yashshiva75/Yashshiva75/assets/124360143/2dab693a-a37e-4e91-b341-bc340d2e6d9a)
 
 ###YASH SHIVA
 *softage*
